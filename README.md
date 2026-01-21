@@ -17,7 +17,7 @@ The results demonstrate that Inference-Time Ablation is the superior method, it 
 ### 1. Data and Setup
 - Initialization: setup of global variables and loading of pre-trained CLIP models (ViT-B/32, L/14, H/14).
 - DebiasingDB: creation, augmentation, and splitting (fine-tuning and validation) of the custom balanced dataset.
-- Evaluation datasets: FairFace (for occupation-bias evaluation) and Oxford-Pets/Food-101 (for zero-shot robustness).
+- Evaluation datasets: [FairFace](https://huggingface.co/datasets/HuggingFaceM4/FairFace) (for occupation-bias evaluation) and [Oxford-IIIT Pet](https://huggingface.co/datasets/timm/oxford-iiit-pet)/[Food-101](https://huggingface.co/datasets/ethz/food101) (for zero-shot robustness).
 
 ### 2. Evaluation Framework
 - Implementation of the three key metrics:
