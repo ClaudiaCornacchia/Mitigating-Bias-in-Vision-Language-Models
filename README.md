@@ -1,5 +1,9 @@
 # Mitigating Bias in Vision-Language Models
 
+![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![CLIP](https://img.shields.io/badge/Model-CLIP-blueviolet)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ClaudiaCornacchia/CV_Project/blob/main/CV_Project_Claudia_Cornacchia_1986434.ipynb)
 
 **Author:** Claudia Cornacchia   
